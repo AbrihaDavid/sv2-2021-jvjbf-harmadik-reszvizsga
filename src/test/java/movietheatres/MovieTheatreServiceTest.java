@@ -1,4 +1,4 @@
-package movietheatres;
+/*package movietheatres;
 
 
 import org.junit.jupiter.api.BeforeEach;
@@ -49,3 +49,5 @@ public class MovieTheatreServiceTest {
     }
 
 }
+
+ */

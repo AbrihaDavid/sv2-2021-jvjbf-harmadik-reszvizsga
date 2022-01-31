@@ -1,6 +1,7 @@
 package streams;
 
 import org.junit.jupiter.api.Test;
+import steams.Song;
 
 import java.time.LocalDate;
 import java.util.List;

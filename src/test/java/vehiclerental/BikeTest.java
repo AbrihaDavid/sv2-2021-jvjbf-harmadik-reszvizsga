@@ -53,4 +53,8 @@ class BikeTest {
         other.rent(LocalTime.of(12,11));
         assertEquals(1,bike.compareTo(other));
     }
+
+
+
 }
+

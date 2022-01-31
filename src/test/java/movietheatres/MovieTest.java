@@ -1,4 +1,4 @@
-package movietheatres;
+/*package movietheatres;
 
 
 import org.junit.jupiter.api.Test;
@@ -30,3 +30,5 @@ public class MovieTest {
     }
 
 }
+
+ */
