@@ -1,4 +1,4 @@
-/*package movietheatres;
+package movietheatres;
 
 
 import org.junit.jupiter.api.BeforeEach;
@@ -36,7 +36,7 @@ public class MovieTheatreServiceTest {
         assertEquals(List.of("WestEnd", "Duna Plaza"), mvs.findMovie("Star Wars"));
         assertTrue(mvs.findMovie("Indinana Jones").isEmpty());
     }
-
+/*
     @Test
     void testFindLatestShowTest() {
         assertEquals(LocalTime.of(20,45),mvs.findLatestShow("Lord Of The Rings"));
@@ -48,6 +48,12 @@ public class MovieTheatreServiceTest {
         assertThrows(IllegalArgumentException.class,()->mvs.findLatestShow("Indiana Jones"));
     }
 
-}
 
  */
+
+}
+
+
+
+
+
